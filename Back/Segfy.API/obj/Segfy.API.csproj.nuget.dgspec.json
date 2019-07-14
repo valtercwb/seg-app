@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.API\\Segfy.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.API\\Segfy.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.API\\Segfy.API.csproj",
+        "projectName": "Segfy.API",
+        "projectPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.API\\Segfy.API.csproj",
+        "packagesPath": "C:\\Users\\elenice.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elenice.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj": {
+                "projectPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj"
+              },
+              "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Services\\Segfy.Services.csproj": {
+                "projectPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Services\\Segfy.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj",
+        "projectName": "Segfy.Domain",
+        "projectPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj",
+        "packagesPath": "C:\\Users\\elenice.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elenice.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Services\\Segfy.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Services\\Segfy.Services.csproj",
+        "projectName": "Segfy.Services",
+        "projectPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Services\\Segfy.Services.csproj",
+        "packagesPath": "C:\\Users\\elenice.carvalho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elenice.carvalho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj": {
+                "projectPath": "C:\\Users\\elenice.carvalho\\Documents\\GitHub\\seg-app\\Back\\Segfy.Domain\\Segfy.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

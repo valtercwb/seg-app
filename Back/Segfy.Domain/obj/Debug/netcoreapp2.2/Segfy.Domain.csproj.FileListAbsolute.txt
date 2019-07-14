@@ -1,0 +1,11 @@
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\bin\Debug\netcoreapp2.2\Segfy.Domain.deps.json
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\bin\Debug\netcoreapp2.2\Segfy.Domain.runtimeconfig.json
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\bin\Debug\netcoreapp2.2\Segfy.Domain.runtimeconfig.dev.json
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\bin\Debug\netcoreapp2.2\Segfy.Domain.dll
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\bin\Debug\netcoreapp2.2\Segfy.Domain.pdb
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\obj\Debug\netcoreapp2.2\Segfy.Domain.csprojAssemblyReference.cache
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\obj\Debug\netcoreapp2.2\Segfy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\obj\Debug\netcoreapp2.2\Segfy.Domain.AssemblyInfoInputs.cache
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\obj\Debug\netcoreapp2.2\Segfy.Domain.AssemblyInfo.cs
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\obj\Debug\netcoreapp2.2\Segfy.Domain.dll
+C:\Users\elenice.carvalho\Documents\GitHub\seg-app\Segfy.Domain\obj\Debug\netcoreapp2.2\Segfy.Domain.pdb
